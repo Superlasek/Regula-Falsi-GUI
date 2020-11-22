@@ -14,7 +14,7 @@ Regula Falsi GUI adalah aplikasi desktop untuk menghitung metode regula falsi. A
 
 ## Video Penjelasan 
 
-Video penjelasan tentang Metode Secant dan Demo Programnya dapat dilihat [disini](https://youtu.be/fUOBlCoBEGA).
+Video penjelasan tentang Metode Regula Falsi dan Demo Programnya dapat dilihat [disini](https://youtu.be/fUOBlCoBEGA).
 
 ## Lisensi
 
